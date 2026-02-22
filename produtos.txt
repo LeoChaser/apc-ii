@@ -1,0 +1,20 @@
+Caneta BIC	Material Escolar	1.500000
+Caderno 100 folhas	Material Escolar	15.000000
+Mochila	Material Escolar	120.000000
+Borracha	Material Escolar	2.000000
+Tablet	Eletrônicos	1500.000000
+Smartphone	Eletrônicos	3500.000000
+Notebook	Eletrônicos	4500.000000
+Fone de ouvido	Eletrônicos	200.000000
+Camiseta	Vestuário	50.000000
+Calça Jeans	Vestuário	120.000000
+Tênis	Vestuário	300.000000
+Jaqueta	Vestuário	250.000000
+Livro de C++	Livros	80.000000
+Livro de Java	Livros	90.000000
+Livro de Python	Livros	70.000000
+Livro de Algoritmos	Livros	100.000000
+Garrafa de água	Acessórios	25.000000
+Relógio de pulso	Acessórios	500.000000
+Óculos de sol	Acessórios	150.000000
+Chapéu	Acessórios	80.000000
